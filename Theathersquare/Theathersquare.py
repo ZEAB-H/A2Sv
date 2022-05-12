@@ -1,4 +1,4 @@
-a,b,c = map(int, input().split)
+a,b,c = map(int, input().split())
 
 if b%c == 0:
     val1 = b//c
